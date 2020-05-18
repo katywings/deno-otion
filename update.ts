@@ -1,5 +1,5 @@
 const otionCoreUrl = 'https://unpkg.com/otion/dist-esm/bundle.min.mjs';
-const otionServerUrl = 'https://unpkg.com/browse/otion@0.1.0/server/index.mjs';
+const otionServerUrl = 'https://unpkg.com/otion/server/index.mjs';
 const nodeEnv = 'process.env.NODE_ENV';
 
 const download = async function(url: string) {
